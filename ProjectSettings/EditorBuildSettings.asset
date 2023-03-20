@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/RenderHeads/AVProMovieCapture/Demos/Scenes/Demo01-TextureCapture.unity
+    guid: 4c41bfde9dbb0a3449f96fdffb67a8e2
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/RenderHeads/AVProMovieCapture/Demos/Scenes/Demo03-CameraCapture.unity
+    guid: 092608d1cce5b7a4c961385358838689
+  - enabled: 0
+    path: Assets/_my/Demo01-TextureCapture 1.unity
+    guid: b4155efd9e169480ba025939638b7a0b
+  - enabled: 0
+    path: Assets/RenderHeads/AVProMovieCapture/Demos/Scenes/Demo02-WebcamCapture.unity
+    guid: 6ba0f3c85855c684db1ca2bfaa26058a
+  - enabled: 1
+    path: Assets/_my/TestTwoCam/TwoCamToTexture.unity
+    guid: fdca7d5d5131944c581e36cdef143681
+  m_configObjects: {}
